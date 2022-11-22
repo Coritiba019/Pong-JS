@@ -9,8 +9,6 @@ Your job is to get terminal to point to the directory on your computer where you
 cd /Users/Downloads/Pong-JS
 ```
 
-(You don't need to type the '$' I'm just using it to represent a prompt.)
-
 Once I'm there, I can start up a web server with the following command.
 
 ```
